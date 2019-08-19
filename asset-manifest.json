@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mini-phonebook/static/css/main.80f5da66.chunk.css",
+    "main.js": "/mini-phonebook/static/js/main.f3db0f0c.chunk.js",
+    "main.js.map": "/mini-phonebook/static/js/main.f3db0f0c.chunk.js.map",
+    "runtime~main.js": "/mini-phonebook/static/js/runtime~main.0f039433.js",
+    "runtime~main.js.map": "/mini-phonebook/static/js/runtime~main.0f039433.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/mini-phonebook/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.b5485dc2.chunk.js": "/mini-phonebook/static/js/2.b5485dc2.chunk.js",
+    "static/js/2.b5485dc2.chunk.js.map": "/mini-phonebook/static/js/2.b5485dc2.chunk.js.map",
+    "index.html": "/mini-phonebook/index.html",
+    "precache-manifest.39e369a7c62b024c4f6bb027036c9376.js": "/mini-phonebook/precache-manifest.39e369a7c62b024c4f6bb027036c9376.js",
+    "service-worker.js": "/mini-phonebook/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/mini-phonebook/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.80f5da66.chunk.css.map": "/mini-phonebook/static/css/main.80f5da66.chunk.css.map"
+  }
+}
